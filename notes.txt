@@ -1,0 +1,18 @@
+npm init -y => create a new npm project with default settings
+
+npm i json-server 
+
+create a gitignore file to ingnore node_modules
+
+configure de server in index.js
+
+specify the path of the "main" file in the package.json
+
+complete de data on db.json
+
+node src/Index.js => run de server
+
+"start": "node src/index.js" => configure a new script
+
+Now the database is available in local
+
