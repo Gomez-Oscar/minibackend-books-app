@@ -45,3 +45,10 @@ click on create web service
 
 url of deployment
 https://minibackend-books-app-dik9.onrender.com/library
+
+
+users endpoint was added
+
+json server query params
+
+https://localhost/3000/users?email=oscar&&password=1234

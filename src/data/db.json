@@ -209,5 +209,21 @@
         }
       }
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Oscar Gomez",
+      "email": "oscar@gmail.com",
+      "password": "1234",
+      "image": "https://e7.pngegg.com/pngimages/178/595/png-clipart-user-profile-computer-icons-login-user-avatars-monochrome-black-thumbnail.png"
+    },
+    {
+      "id": 2,
+      "name": "Alex Gomez",
+      "email": "alex@gmail.com",
+      "password": "1234",
+      "image": "https://e7.pngegg.com/pngimages/178/595/png-clipart-user-profile-computer-icons-login-user-avatars-monochrome-black-thumbnail.png"
+    }
   ]
 }
